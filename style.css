@@ -1,0 +1,67 @@
+.header {
+	background-image: url(./Синий_фон_.jpg);
+}
+
+.header li {
+	display: inline-block;
+	padding: 20px;
+}
+
+.header ul {
+	font-family: Arial;
+	font-size: 17px;
+	color: white;
+}
+
+.header h1 {
+	font-family: Arial;
+	color: white;
+}
+
+
+
+.internship {
+	background-image: url(./Синий_фон_.jpg);
+	color: white;
+	padding: 20px 70px;
+}
+
+.internship li {
+	line-height: 35px;
+}
+}
+.internship button {
+	font-family: Arial;
+	font-size: 10px;
+	background-color: green;
+	text-align: center;
+	border: none;
+	border-radius: 5px;
+	padding: 15px 25px;
+}
+
+.people img {
+
+}
+
+.way {
+	text-align: center;
+	padding: 70px;
+}
+
+.way button {
+	background-color: gray
+	border: 0.5px solid gray;
+	border-radius: 5px;
+	padding: 15px 100px;
+
+}
+
+.programm {
+	background-color: aliceblue;
+	padding-left: 300px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
